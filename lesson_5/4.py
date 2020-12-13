@@ -9,7 +9,6 @@ Four — 4
 '''
 
 numbers = 'One — 1\nTwo — 2\nThree — 3\nFour — 4'
-
 with open('numbers.txt', 'w', encoding='utf-8') as f:
     f.write(numbers)
 

@@ -23,5 +23,4 @@ profit = {}
 with open('firm.txt', 'r') as f:
         firm_a = f.readlines()
         print(firm_a)
-
 #не хватило времени, пока так отправля. потом добавлю решение, если разберусь

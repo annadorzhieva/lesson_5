@@ -7,7 +7,6 @@
 Пример словаря:
 {“Информатика”: 170, “Физика”: 40, “Физкультура”: 30}
 '''
-
 userList = {}
 with open('file_6.txt', 'r', encoding='UTF-8') as file_d:
     for i in file_d:
